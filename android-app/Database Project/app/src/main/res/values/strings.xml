@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Database_Testing</string>
+
+
+    <!-- Currently the plan is to separate strings by Activity, and using comments for clarity.
+        When I learn a better practice I will implement this change!    -->
+
+
+    <!--  MainActivity -->
+
+
+    <!-- MainMenu -->
+
+    <!-- Poll Demo -->
+
+
+</resources>
